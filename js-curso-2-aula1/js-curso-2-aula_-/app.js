@@ -71,10 +71,3 @@ let listaGenerica = [];
 
 let linguagensDeProgramacao = ['Java', 'Golang'];
 
-linguagensDeProgramacao.push('JavaScript');
-linguagensDeProgramacao.push('C');
-linguagensDeProgramacao.push('C++');
-linguagensDeProgramacao.push('Kotlin');
-linguagensDeProgramacao.push('Phyton');
-
-console.log(linguagensDeProgramacao[4]);
