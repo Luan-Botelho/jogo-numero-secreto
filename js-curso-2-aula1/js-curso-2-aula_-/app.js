@@ -67,7 +67,4 @@ function reiniciarJogo() {
 
 }
 
-let listaGenerica = [];
-
-let linguagensDeProgramacao = ['Java', 'Golang'];
 
